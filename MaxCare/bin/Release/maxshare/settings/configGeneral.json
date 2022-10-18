@@ -1,0 +1,19 @@
+{
+  "ip_nudChangeIpCount": "1",
+  "ip_iTypeChangeIp": "7",
+  "ip_txtProfileNameDcom": "",
+  "ip_txtNordVPN": "",
+  "ip_cbbHostpot": "0",
+  "txtApiTinsoft": "USA2RYp9SNhzsFB4KYg6QVc7wNLS73PCDxjcn4",
+  "cbbLocationTinsoft": "1",
+  "nudLuongPerIPTinsoft": "2",
+  "txtServiceURLXProxy": "http://192.168.1.18:10000/",
+  "typeProxy": "0",
+  "txtListProxy": "192.168.1.18:4001\n192.168.1.18:4002",
+  "nudLuongPerIPXProxy": "1",
+  "typeApiTinsoft": "0",
+  "txtApiUser": "USA2RYp9SNhzsFB4KYg6QVc7wNLS73PCDxjcn4",
+  "txtApiProxy": "",
+  "txtApiKeyTMProxy": "4e44e34e0492fcdc417089d49774db86",
+  "nudLuongPerIPTMProxy": "1"
+}

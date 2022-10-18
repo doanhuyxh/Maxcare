@@ -1,0 +1,16 @@
+{
+  "nudThread": "3",
+  "ckbHideBrowser": "False",
+  "ckbUseProfile": "False",
+  "txtPathProfile": "",
+  "Login": "1",
+  "txtLinkLiveStream": "",
+  "nudTimeViewFrom": "3",
+  "nudTimeViewTo": "5",
+  "ckbInteract": "False",
+  "typeReaction": "0123456",
+  "ckbComment": "False",
+  "nudTimeDelayCommentFrom": "3",
+  "nudTimeDelayCommentTo": "5",
+  "ckbRepeatAll": "False"
+}
